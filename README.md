@@ -147,7 +147,6 @@ Requirements Traceability Matrix linking business needs → user stories → val
 08_Data_and_Reporting/         Data model, KPIs, reporting, SQL & API summaries
 09_Interview_Portfolio/        Presentation, walkthrough, resume section
 assets/                        Prototype screenshots + dashboard image
-_archive/                      Supplementary technical & PM artifacts (preserved)
 ```
 
 ---
