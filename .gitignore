@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+*.pem
+credentials.json
+
+# Build / temp
+node_modules/
+07_UX_Prototype/hireflow-prototype/
+
+# Archive — kept locally; not published (recruiter-facing repo stays clean)
+_archive/
+dist/
+build/
+*.log
+tmp/
+
+# Power BI
+*.pbix
+
+# Office temp
+~$*
