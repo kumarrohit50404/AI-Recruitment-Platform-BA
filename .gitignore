@@ -19,6 +19,12 @@ credentials.json
 node_modules/
 07_UX_Prototype/hireflow-prototype/
 
+# Private interview prep — not for public GitHub
+09_Interview_Portfolio/Interview_Questions.md
+09_Interview_Portfolio/Interview_Questions.docx
+09_Interview_Portfolio/HireFlow_AI_Interview_Questions_Prep.docx
+09_Interview_Portfolio/build_interview_questions_doc.py
+
 # Archive — kept locally; not published (recruiter-facing repo stays clean)
 _archive/
 dist/
