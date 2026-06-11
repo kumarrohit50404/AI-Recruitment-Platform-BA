@@ -1,8 +1,8 @@
-# HireFlow AI — Business Analyst Portfolio
+# HireFlow AI — Business Analyst Portfolio Case Study
 
-**AI-Powered Recruitment Platform** | End-to-end BA case study
+**AI-Powered Recruitment Platform** | Requirements analysis, process modeling, stakeholder management, reporting requirements, and solution specification.
 
-> Portfolio project demonstrating how a Junior Business Analyst approaches stakeholder analysis, requirements, process improvement, user stories, wireframes, reporting, and traceability.
+> **Business Analyst Portfolio Case Study** demonstrating requirements analysis, process modeling, stakeholder management, reporting requirements and solution specification.
 
 **Author:** Rohit Kumar | [GitHub Portfolio](https://github.com/kumarrohit50404/AI-Recruitment-Platform-BA)
 
@@ -18,7 +18,7 @@ Hiring teams lose time on manual resume screening, lack pipeline visibility, and
 
 ## 2. Stakeholders
 
-Eight stakeholder groups with mapped pain points, goals, and influence — Recruiters, HR, CHRO, Hiring Managers, Compliance, IT, Finance, and Candidates.
+Five primary stakeholder groups with mapped pain points, goals, and requirements influence — Recruiter, HR Manager, Candidate, Interview Panel, and Compliance.
 
 **Artifact:** [Stakeholder Matrix](02_Stakeholder_Analysis/Stakeholder_Matrix.md)
 
@@ -26,7 +26,7 @@ Eight stakeholder groups with mapped pain points, goals, and influence — Recru
 
 ## 3. Requirements
 
-Business requirements captured in a structured BRD with MoSCoW prioritization and traceable IDs.
+Representative business requirements captured in a structured BRD with MoSCoW prioritization and traceable IDs.
 
 **Artifact:** [BRD](03_Business_Requirements/BRD.md)
 
@@ -67,7 +67,7 @@ Six wireframe screens with screenshots showing how requirements translate into r
 
 ## 7. Dashboard
 
-Executive Hiring Dashboard for CHRO and HR leadership — funnel, KPIs, department trend, recruiter performance.
+Executive Hiring Dashboard for HR leadership — funnel, KPIs, department trend, recruiter performance.
 
 ![Executive Hiring Dashboard](assets/dashboard/executive-hiring-dashboard.png)
 
@@ -77,7 +77,7 @@ Executive Hiring Dashboard for CHRO and HR leadership — funnel, KPIs, departme
 
 ## 8. Traceability
 
-Requirements Traceability Matrix linking business needs to user stories and validation.
+Sample Requirements Traceability Matrix linking business needs to user stories and validation approaches.
 
 **Artifact:** [RTM](06_Traceability_and_Validation/RTM.md)
 
@@ -101,11 +101,11 @@ Requirements Traceability Matrix linking business needs to user stories and vali
 
 ```
 01_Business_Context/           Business case
-02_Stakeholder_Analysis/       Stakeholder matrix
-03_Business_Requirements/      BRD
+02_Stakeholder_Analysis/       Stakeholder matrix (5 primary stakeholders)
+03_Business_Requirements/      BRD (representative requirements)
 04_Process_Modeling/           Process flows (summary)
 05_User_Stories_and_Acceptance/  Sample user stories
-06_Traceability_and_Validation/  RTM
+06_Traceability_and_Validation/  RTM (sample rows)
 07_UX_Prototype/               Wireframe summary + screenshots
 08_Data_and_Reporting/         Dashboard, KPIs, reporting, SQL & API summary
 assets/                        Screenshots and dashboard image
@@ -115,9 +115,9 @@ assets/                        Screenshots and dashboard image
 
 ## About This Portfolio
 
-This is a **Business Analyst case study** — requirements, process, and reporting documentation. It is not a production application, engineering codebase, or BI development project.
+This is a **Business Analyst portfolio case study** — requirements analysis, process modeling, stakeholder management, reporting requirements, and solution specification. It is not a production application or engineering codebase.
 
-**Suggested review path (5–10 minutes):** README → screenshots → dashboard → stakeholder matrix → sample user stories → RTM sample row.
+**Suggested review path (5–10 minutes):** README → screenshots → dashboard → stakeholder matrix → sample user stories → RTM sample rows.
 
 ---
 

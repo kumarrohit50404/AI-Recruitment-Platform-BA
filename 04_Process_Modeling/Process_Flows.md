@@ -64,7 +64,7 @@ Requisition in system → HR approval workflow → Published to career portal
 
 1. **Screening** — Replace full manual read with AI-ranked shortlist (BR-002, BR-003)
 2. **Scheduling** — Reduce email coordination with integrated availability (scheduling stories)
-3. **Evaluation** — Standardize panel feedback with scorecards (US-EVL-001)
+3. **Evaluation** — Standardize panel feedback with scorecards (Story 4)
 4. **Reporting** — Replace Excel with executive hiring dashboard (reporting requirements)
 
 ---
