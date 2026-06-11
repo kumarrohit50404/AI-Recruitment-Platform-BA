@@ -1,22 +1,19 @@
 # Business SQL Examples
-## HireFlow AI — BA Portfolio (Curated Samples)
+## HireFlow AI | Portfolio Case Study
 
-| Field | Value |
-|-------|-------|
-| **Document ID** | SQL-BA-HFA-2026-001 |
-| **Purpose** | Demonstrate data analysis skills for **reporting validation** — not DBA/engineering |
-| **Full library** | [`_archive/Data_and_Reporting_Full/SQL_Queries.md`](../_archive/Data_and_Reporting_Full/SQL_Queries.md) (150 queries) |
+**Author:** Rohit Kumar | Business Analyst Portfolio Project
+
+**Purpose:** Sample SQL queries used to **validate reporting requirements and KPI logic** — not database administration.
 
 ---
 
-## 1. Why These Queries Matter (BA Perspective)
+## Why a BA Uses SQL
 
-As a Business Analyst, SQL supports:
-- **Validating reporting requirements** (RR-001–015)
-- **Confirming KPI formulas** (KPI-006, KPI-011)
-- **UAT data checks** before stakeholder sign-off
+- Confirm KPI formulas match available data
+- Validate funnel and pipeline reports before UAT
+- Answer stakeholder questions with sample data checks
 
-These 12 examples span basic → intermediate → advanced hiring analytics.
+These examples span basic pipeline queries through KPI validation.
 
 ---
 

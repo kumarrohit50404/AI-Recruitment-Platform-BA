@@ -3,11 +3,8 @@
 
 | Field | Value |
 |-------|-------|
-| **Document ID** | DASH-BA-HFA-2026-002 |
-| **Version** | 3.0 |
 | **Purpose** | Executive dashboard requirements for CHRO and HR leadership |
 | **Dashboard preview** | [assets/dashboard/executive-hiring-dashboard.png](../assets/dashboard/executive-hiring-dashboard.png) |
-| **Archived Power BI build** | [`_archive/Data_and_Reporting_Full/`](../_archive/Data_and_Reporting_Full/) |
 
 ---
 
@@ -83,4 +80,4 @@ The portfolio defines **one Executive Hiring Dashboard** for CHRO and HR leaders
 
 ---
 
-*One dashboard only | Technical Power BI build files archived in `_archive/Data_and_Reporting_Full/power-bi/`*
+*Executive dashboard specification for HireFlow AI portfolio case study.*

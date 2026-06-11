@@ -3,11 +3,8 @@
 
 | Field | Value |
 |-------|-------|
-| **Document ID** | BRD-HFA-2026-001 |
-| **Version** | 1.0 |
-| **Author** | Rohit, Business Analyst |
-| **Status** | Approved |
-| **Total Requirements** | 120 |
+| **Author** | Rohit Kumar, Business Analyst |
+| **Status** | Portfolio case study |
 
 ---
 
