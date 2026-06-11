@@ -409,9 +409,9 @@ Use exact copy — put in red 12px below field or in error banner.
 
 | KPI tile | Value |
 |----------|-------|
-| Applied | 842 |
+| Applied | 952 |
 | Hired | 38 |
-| Conversion | 4.5% |
+| Conversion | 4.0% |
 
 **Date range:** Jan 1, 2026 — Jun 8, 2026  
 **Department filter:** All Departments
@@ -784,7 +784,7 @@ Date range (display only), Department select
 #### Build checklist
 
 - [ ] Pipeline Funnel selected in catalog
-- [ ] Conversion rate 4.5% visible
+- [ ] Conversion rate 4.0% visible
 - [ ] Sticky: "RR-001 real-time funnel | KPI-006 time-to-hire"
 
 ---

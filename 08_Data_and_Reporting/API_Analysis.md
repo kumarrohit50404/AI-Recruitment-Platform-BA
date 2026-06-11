@@ -98,7 +98,7 @@ Recruiter UI ──review/rank──────────────┘
 
 ## 7. Interview Talking Points
 
-- "I identified 5 integration domains and 52 endpoints to support 155 requirements."
+- "I documented integration needs across five domains — how recruiting modules exchange candidate, job, and reporting data."
 - "Reporting APIs directly implement RR-001 through RR-006 for the executive dashboard."
 - "I documented external dependencies — calendar, Stripe, HRIS — as integration risks in the business case."
 

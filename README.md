@@ -85,6 +85,8 @@ Executive Hiring Dashboard — one page for CHRO and HR leadership answering: *A
 
 ![Executive Hiring Dashboard](assets/dashboard/executive-hiring-dashboard.png)
 
+**Verified metrics (12-month period):** 952 applications · 729 screened · 102 interviews · 52 offers · 38 hires · 23.9-day time-to-hire · 80% offer acceptance
+
 ---
 
 ## 8. Traceability

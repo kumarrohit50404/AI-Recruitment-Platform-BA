@@ -39,6 +39,27 @@ The portfolio defines **one Executive Hiring Dashboard** for CHRO and HR leaders
 
 ---
 
+## 2.1 Verified dashboard metrics (Jul 2025 – Jun 2026)
+
+*Single source of truth — all portfolio references use these values.*
+
+| Metric | Value | Notes |
+|--------|-------|-------|
+| Total Candidates | **952** | Application records in pipeline |
+| Candidates Screened | **729** | AI screening completed |
+| Interviews Completed | **102** | Completed interview rounds |
+| Offers Released | **52** | Offers sent to candidates |
+| Offer Acceptance Rate | **80.0%** | Target: 78% |
+| Time to Hire | **23.9 days** | Applied date → hire date (average) |
+| Hires | **38** | Candidates with stage = Hired |
+| Funnel conversion (Applied → Hired) | **4.0%** | 38 ÷ 952 |
+
+**Hiring funnel stages:** Applied (952) → Screened (729) → Interview (102) → Offer (52) → Hired (38)
+
+**Data scope:** 350 unique candidates · 24 open jobs · 6 recruiters · 12 months
+
+---
+
 ## 3. BA Interview Demo (2 minutes)
 
 1. Open [executive-hiring-dashboard.png](../assets/dashboard/executive-hiring-dashboard.png)

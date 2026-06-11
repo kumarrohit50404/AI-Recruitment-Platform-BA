@@ -35,7 +35,7 @@
 - Created wireframe specifications and a Figma implementation plan to visualize recruiter and HR manager workflows from documented requirements
 
 ### Data & Reporting (BA scope)
-- Defined reporting requirements and KPIs (time-to-hire, pipeline status, offer acceptance) with formulas, data sources, and dashboard needs per stakeholder persona
+- Defined reporting requirements and KPIs (time-to-hire, pipeline status, offer acceptance) with formulas, data sources, and dashboard needs per stakeholder persona; validated sample metrics: 952 applications, 38 hires, 23.9-day time-to-hire, 80% offer acceptance
 
 - Developed sample SQL queries and an API integration summary to validate reporting requirements and document how system modules exchange data
 
