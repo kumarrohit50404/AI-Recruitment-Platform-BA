@@ -8,6 +8,22 @@
 
 ---
 
+## My Role
+
+As Business Analyst, I performed:
+
+- Stakeholder Analysis
+- Requirements Gathering
+- Business Requirements Documentation
+- Process Modeling (AS-IS / TO-BE)
+- User Story Definition
+- Acceptance Criteria Documentation
+- Requirements Traceability
+- Reporting & KPI Definition
+- Wireframe Review and Validation
+
+---
+
 ## 1. Business Problem
 
 Hiring teams lose time on manual resume screening, lack pipeline visibility, and struggle with inconsistent interview evaluation. HireFlow AI is a **case study** documenting how an AI-assisted recruitment platform would address these gaps.

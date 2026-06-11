@@ -42,7 +42,7 @@ ORDER BY a.applied_at DESC;
 ```
 
 ### Example 3 — Open requisitions
-*Validates: Open Requisition Aging (RR-014)*
+*Validates: Job requisition tracking (BR-019)*
 
 ```sql
 SELECT job_id, title, department, published_at

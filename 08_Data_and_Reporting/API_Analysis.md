@@ -24,7 +24,7 @@
 
 | System | Why it matters |
 |--------|----------------|
-| Google / Outlook Calendar | Panel availability for interview scheduling |
+| Calendar systems | Panel availability for interview scheduling (BR-023) |
 | HRIS (e.g., Workday) | Headcount validation for requisition approval (Phase 2) |
 | Email / notifications | Interview reminders, offer letters |
 
