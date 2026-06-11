@@ -1,9 +1,11 @@
 # Business SQL Examples
 ## HireFlow AI | Portfolio Case Study
 
-**Author:** Rohit Kumar | Business Analyst Portfolio Project
+**Author:** Rohit Kumar | Business Analyst
 
 **Purpose:** Sample SQL queries used to **validate reporting requirements and KPI logic** — not database administration.
+
+The following sample queries are illustrative examples created to demonstrate how a Business Analyst can validate reporting requirements and KPI calculations.
 
 ---
 
@@ -107,7 +109,7 @@ ORDER BY application_month DESC;
 ## 4. Advanced Examples (Executive Reporting)
 
 ### Example 8 — Time-to-hire by department
-*Validates: Time-to-Hire (KPI-006, RR-002)*
+*Validates: Time-to-Hire (KPI 6, BR-033)*
 
 ```sql
 SELECT j.department,
@@ -162,14 +164,11 @@ FROM hireflow.offers;
 
 ---
 
-## 5. BA Usage in Interviews
+## 5. When to Use These Examples
 
-| Interview Question | Show Example |
-|--------------------|--------------|
-| "How do you validate a KPI?" | Example 5 or 10 |
-| "How do you analyze hiring funnel?" | Example 1 or 9 |
-| "Can you work with data?" | Examples 4, 6, 8 |
+| Scenario | Example |
+|----------|---------|
+| Validate a KPI formula | Example 5 or 10 |
+| Analyze hiring funnel drop-off | Example 1 or 9 |
+| Check pipeline or recruiter data | Examples 4, 6, 8 |
 
----
-
-*12 curated examples | Full 150-query library archived for depth-on-request*

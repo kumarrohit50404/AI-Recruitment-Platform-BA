@@ -1,7 +1,7 @@
 # Process Flows — HireFlow AI
 ## AS-IS and TO-BE Hiring Process (Summary)
 
-**Author:** Rohit Kumar | Business Analyst Portfolio Project
+**Author:** Rohit Kumar | Business Analyst
 
 ---
 
@@ -65,8 +65,4 @@ Requisition in system → HR approval workflow → Published to career portal
 1. **Screening** — Replace full manual read with AI-ranked shortlist (BR-002, BR-003)
 2. **Scheduling** — Reduce email coordination with integrated availability (scheduling stories)
 3. **Evaluation** — Standardize panel feedback with scorecards (Story 4)
-4. **Reporting** — Replace Excel with executive hiring dashboard (reporting requirements)
-
----
-
-*Detailed step-by-step flows with SLAs and business rules are available in the extended process documentation (archived locally).*
+4. **Reporting** — Replace Excel with executive hiring dashboard (BR-031, RR-001)

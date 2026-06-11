@@ -1,7 +1,7 @@
 # API Analysis — Integration Summary
 ## HireFlow AI | Portfolio Case Study
 
-**Author:** Rohit Kumar | Business Analyst Portfolio Project
+**Author:** Rohit Kumar | Business Analyst
 
 **Purpose:** Document integration needs from a Business Analyst perspective — what systems connect, what data flows, and who consumes it. This is not an API development specification.
 
@@ -11,12 +11,12 @@
 
 | Domain | Business need | Stakeholders | Requirements |
 |--------|---------------|--------------|--------------|
-| Authentication | Enterprise SSO login | Company Admin, Recruiter | BR-009 |
-| Candidate | Apply, upload resume, track status | Candidate, Recruiter | BR-015, BR-021 |
+| Authentication | Secure login and role-based access | HR Manager, Recruiter | BR-009 |
+| Candidate | Apply, upload resume, track status | Candidate, Recruiter | BR-021 |
 | Screening | AI score and ranking | Recruiter | BR-002, BR-003 |
 | Interview | Schedule, scorecard | Recruiter, Panel | Scheduling & evaluation stories |
 | Reporting | Dashboard and exports | HR Manager | BR-031, reporting requirements |
-| Admin | Users, audit trail | Admin, Compliance | BR-010 |
+| Audit | Action logging for compliance review | Compliance | BR-010 |
 
 ---
 
@@ -52,4 +52,4 @@ Offer sent → Hire recorded → Metrics appear on executive dashboard
 
 ---
 
-*This summary supports reporting and workflow requirements in the BRD. Detailed API specifications are out of scope for this Junior BA portfolio.*
+*Integration summary supporting workflow and reporting requirements in the BRD.*

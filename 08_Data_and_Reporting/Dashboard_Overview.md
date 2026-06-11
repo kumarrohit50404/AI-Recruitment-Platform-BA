@@ -1,20 +1,21 @@
 # Dashboard Overview — Executive Hiring Dashboard
-## HireFlow AI — BA Portfolio
+## HireFlow AI — Portfolio Case Study
 
-| Field | Value |
-|-------|-------|
-| **Purpose** | Executive dashboard requirements for CHRO and HR leadership |
-| **Dashboard preview** | [assets/dashboard/executive-hiring-dashboard.png](../assets/dashboard/executive-hiring-dashboard.png) |
+**Author:** Rohit Kumar | Business Analyst
+
+**Purpose:** Executive dashboard requirements for HR Manager and Hiring Leadership.
+
+**Dashboard preview:** [executive-hiring-dashboard.png](../assets/dashboard/executive-hiring-dashboard.png)
 
 ---
 
 ## 1. Dashboard Strategy
 
-The portfolio defines **one Executive Hiring Dashboard** for CHRO and HR leadership — not separate recruiter or compliance dashboards.
+The portfolio defines **one Executive Hiring Dashboard** for HR Manager and Hiring Leadership.
 
 | Dashboard | User | Business question |
 |-----------|------|-------------------|
-| **Executive Hiring Dashboard** | CHRO, VP TA, HR Manager | "Are we hiring efficiently and moving candidates through the funnel successfully?" |
+| **Executive Hiring Dashboard** | HR Manager and Hiring Leadership | "Are we hiring efficiently and moving candidates through the funnel successfully?" |
 
 ---
 
@@ -36,9 +37,7 @@ The portfolio defines **one Executive Hiring Dashboard** for CHRO and HR leaders
 
 ---
 
-## 2.1 Verified dashboard metrics (Jul 2025 – Jun 2026)
-
-*Single source of truth — all portfolio references use these values.*
+## 2.1 Dashboard metrics (Jul 2025 – Jun 2026)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -57,27 +56,10 @@ The portfolio defines **one Executive Hiring Dashboard** for CHRO and HR leaders
 
 ---
 
-## 3. BA Interview Demo (2 minutes)
-
-1. Open [executive-hiring-dashboard.png](../assets/dashboard/executive-hiring-dashboard.png)
-2. Walk through KPI row — define one metric from [KPI_Definitions.md](KPI_Definitions.md) (e.g., Time to Hire)
-3. Show hiring funnel — where candidates drop off between Applied and Hired
-4. Show recruiter table — who is converting candidates efficiently
-5. Reference [Business_SQL_Examples.md](Business_SQL_Examples.md) only if asked how you validated a KPI
-
-**Key line:** "I defined what leadership needs to measure and see — the dashboard reflects reporting requirements, not a BI engineering deliverable."
-
----
-
-## 4. Related artifacts
+## 3. Related artifacts
 
 | Artifact | Role |
 |----------|------|
 | [KPI_Definitions.md](KPI_Definitions.md) | Formulas and owners |
 | [Reporting_Requirements.md](Reporting_Requirements.md) | Report catalog |
 | [Business_SQL_Examples.md](Business_SQL_Examples.md) | Sample validation queries |
-| [Data_Model.md](Data_Model.md) | Conceptual data entities |
-
----
-
-*Executive dashboard specification for HireFlow AI portfolio case study.*

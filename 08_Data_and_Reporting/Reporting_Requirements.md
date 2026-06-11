@@ -37,7 +37,6 @@ This document defines **what** stakeholders need to measure, **who** consumes ea
 | RR ID | Report | Audience | Frequency | KPI link |
 |-------|--------|----------|-----------|----------|
 | RR-001 | Hiring Pipeline Funnel | HR Manager | Real-time | KPI 1–4 |
-| RR-002 | Time-to-Hire by Department | HR Manager | Weekly | KPI 6 |
 | RR-004 | Recruiter Performance Scorecard | HR Manager | Monthly | KPI 2, 3, 6 |
 | RR-006 | Offer Acceptance Rate Trend | HR Manager | Monthly | KPI 5 |
 | RR-005 | AI Screening Summary | Compliance | Monthly | Explainability metrics |
@@ -61,7 +60,3 @@ This document defines **what** stakeholders need to measure, **who** consumes ea
 | HR Manager opens Executive Dashboard | Filters to last quarter | Funnel and time-to-hire reflect filtered period |
 | Recruiter views pipeline report | New applications arrive | Applied count updates on dashboard |
 | Compliance requests screening summary | HR exports report | AI scores include rationale fields per BR-017 |
-
----
-
-*Representative reporting requirements for portfolio case study.*

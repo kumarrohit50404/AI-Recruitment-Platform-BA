@@ -1,7 +1,7 @@
 # Wireframes — Summary
 ## HireFlow AI Prototype (6 Screens)
 
-**Author:** Rohit Kumar | Business Analyst Portfolio Project
+**Author:** Rohit Kumar | Business Analyst
 
 This summary describes the six prototype screens documented for the HireFlow AI case study. Screenshots are in [`assets/screenshots/`](../assets/screenshots/).
 
@@ -11,7 +11,7 @@ This summary describes the six prototype screens documented for the HireFlow AI 
 
 | # | Screen | Primary user | Business purpose |
 |---|--------|--------------|------------------|
-| 1 | Login | Recruiter / HR | Secure enterprise access (SSO) |
+| 1 | Login | Recruiter / HR | Secure login with role-based access |
 | 2 | Recruiter Dashboard | Recruiter | Pipeline KPIs and quick actions |
 | 3 | Candidate List | Recruiter | AI-ranked applicants for a requisition |
 | 4 | Candidate Details | Recruiter | Score, skills match, explainable AI rationale |
@@ -22,8 +22,8 @@ This summary describes the six prototype screens documented for the HireFlow AI 
 
 ## Screen 1 — Login
 
-- Email/password and enterprise SSO (Google, Microsoft)
-- Maps to BR-009 authentication requirements
+- Secure login with role-based access for recruiters and HR users
+- Maps to BR-009
 
 ![Login](../assets/screenshots/login-screen.png)
 
@@ -77,6 +77,4 @@ This summary describes the six prototype screens documented for the HireFlow AI 
 
 ## Traceability
 
-Each screen traces to requirements in the BRD and sample user stories in `User_Stories_Sample.md`.
-
-*Detailed wireframe specifications and Figma build notes are retained locally for reference.*
+Each screen traces to requirements in the BRD and sample user stories in [User_Stories_Sample.md](../05_User_Stories_and_Acceptance/User_Stories_Sample.md).

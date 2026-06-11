@@ -17,7 +17,7 @@ This matrix shows **sample traceability** from business requirements to user sto
 
 | Req ID | User Story (Sample) | Validation approach |
 |--------|---------------------|---------------------|
-| BR-009 | Story 1 — User Login | SSO login succeeds; role applied; failed auth shows error |
+| BR-009 | Story 1 — User Login | Secure login succeeds; role-based access applied; failed login shows error |
 | BR-002 | Story 2 — Candidate Search | AI-ranked list loads; sorted by score; screening time reduced vs manual |
 | BR-003 | Story 2 — Candidate Search | Match score 0–100 displayed per candidate |
 | BR-017 | Story 7 — Explainable AI Score | Rationale visible; override requires justification |
@@ -48,6 +48,3 @@ This matrix shows **sample traceability** from business requirements to user sto
 | Reporting | 2 | Story 5 |
 | Compliance & audit | 3 | Stories 1, 7 |
 
----
-
-*Sample traceability for portfolio review. Extended RTM retained locally.*

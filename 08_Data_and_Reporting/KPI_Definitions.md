@@ -1,7 +1,7 @@
 # KPI Definitions — Executive Dashboard
 ## HireFlow AI | Portfolio Case Study
 
-**Author:** Rohit Kumar | Business Analyst Portfolio Project
+**Author:** Rohit Kumar | Business Analyst
 
 These six KPIs appear on the **Executive Hiring Dashboard** and support leadership reporting requirements.
 
@@ -87,7 +87,3 @@ These six KPIs appear on the **Executive Hiring Dashboard** and support leadersh
 | **Conversion (Applied → Hired)** | **~4%** |
 
 See [Dashboard_Overview.md](Dashboard_Overview.md) and the dashboard screenshot in `assets/dashboard/`.
-
----
-
-*Extended KPI catalog retained locally for reference.*

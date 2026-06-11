@@ -25,7 +25,7 @@ This BRD captures **representative business requirements** for the HireFlow AI r
 
 | ID | Requirement | Priority | Stakeholder |
 |----|-------------|----------|-------------|
-| BR-009 | Support enterprise SSO login for recruiters and HR users | M | HR Manager |
+| BR-009 | Provide secure login and role-based access for recruiters and HR users | M | HR Manager |
 | BR-010 | Maintain audit logs for critical actions including AI overrides | M | Compliance |
 
 ---
@@ -82,6 +82,3 @@ This BRD captures **representative business requirements** for the HireFlow AI r
 | NFR-011 | New recruiter can complete core tasks after brief onboarding | Same day |
 | NFR-012 | Application meets basic accessibility standards | WCAG 2.1 AA (target) |
 
----
-
-*Representative requirements for portfolio review. Extended requirement catalog retained locally.*

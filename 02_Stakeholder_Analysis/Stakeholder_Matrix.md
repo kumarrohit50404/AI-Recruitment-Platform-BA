@@ -45,7 +45,7 @@
 
 **Goals:** Apply online easily; receive stage notifications; self-schedule when possible.
 
-**Requirements influenced:** BR-021, BR-024 (self-schedule), notification needs
+**Requirements influenced:** BR-021
 
 ---
 
@@ -55,7 +55,7 @@
 
 **Goals:** Standard scorecard; clear interview schedule; submit evaluation promptly.
 
-**Requirements influenced:** BR-027, BR-026, BUS-004
+**Requirements influenced:** BR-027, BR-023, BUS-004
 
 ---
 
@@ -76,6 +76,3 @@
 | Recruiter wants speed vs. Compliance wants explainability | BR-017 explainable rationale + BR-010 audit logs + recruiter override with justification (BUS-003) |
 | HR wants dashboards vs. Recruiter wants simple workflow | Separate executive dashboard (BR-031) and recruiter-focused screens in wireframes |
 
----
-
-*Five primary stakeholders for portfolio case study. Extended stakeholder catalog retained locally.*

@@ -1,7 +1,7 @@
 # User Stories — Sample Set
 ## HireFlow AI | Portfolio Case Study
 
-**Author:** Rohit Kumar | Business Analyst Portfolio Project
+**Author:** Rohit Kumar | Business Analyst
 
 This document shows **eight representative user stories** from the HireFlow AI case study. Each story includes business value and testable acceptance criteria.
 
@@ -10,22 +10,21 @@ This document shows **eight representative user stories** from the HireFlow AI c
 ## Story 1 — User Login
 
 **User Story**  
-As an **HR Manager**, I want to log in with my enterprise credentials (SSO), so that I can access hiring workflows securely without managing a separate password.
+As an **HR Manager**, I want secure login with role-based access, so that I only see the hiring features relevant to my role.
 
 **Business Value**  
-Reduces login friction for enterprise users and supports security requirements (BR-009).
+Supports access control requirement BR-009.
 
 **Acceptance Criteria**
 
 ```gherkin
 Given I am on the login page
-When I click "Sign in with Microsoft" and authenticate successfully
-Then I am redirected to the recruiter dashboard
-And my role and permissions are applied to the session
+When I enter valid credentials
+Then I reach the dashboard matching my role and permissions
 
-Given my SSO authentication fails
+Given my login fails
 When I return to the login page
-Then I see a clear error message and option to retry
+Then I see a clear error message
 ```
 
 **Related requirement:** BR-009
@@ -80,7 +79,7 @@ Then calendar invites are sent to the panel and candidate
 And reminder notifications are scheduled 24 hours and 1 hour before
 ```
 
-**Related requirement:** PR-003 (scheduling process)
+**Related requirement:** BR-023
 
 ---
 
@@ -131,7 +130,7 @@ When I review the recruiter performance table
 Then I see screened count, interviews, offers, hires, and time-to-hire per recruiter
 ```
 
-**Related requirements:** BR-031, reporting requirements RR-001, RR-002, RR-004
+**Related requirements:** BR-031, BR-033, RR-001, RR-004
 
 ---
 
@@ -158,7 +157,7 @@ Then HR and the recruiter are notified
 And the reason is stored for reporting
 ```
 
-**Related requirements:** BR-004 (end-to-end workflow), offer process
+**Related requirements:** BR-004, BR-029
 
 ---
 
@@ -202,6 +201,3 @@ Then the requisition routes to HR for approval
 And it is not published until approved
 ```
 
----
-
-*Extended backlog and full acceptance criteria catalog are retained locally for reference.*

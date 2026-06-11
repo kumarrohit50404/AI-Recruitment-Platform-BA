@@ -1,7 +1,7 @@
 # Business Case — HireFlow AI
 ## AI-Powered Recruitment Platform (Portfolio Case Study)
 
-**Author:** Rohit Kumar | Business Analyst Portfolio Project | June 2026
+**Author:** Rohit Kumar | Business Analyst | June 2026
 
 ---
 
@@ -56,7 +56,3 @@ As Business Analyst on this case study, I documented:
 - Wireframe summary and prototype screenshots
 - Reporting requirements, executive KPIs, and dashboard mockup
 - Requirements traceability matrix (RTM)
-
----
-
-*Full business case with detailed cost analysis is retained locally for reference — not required for Junior BA portfolio review.*
